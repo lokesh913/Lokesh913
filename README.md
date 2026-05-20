@@ -96,4 +96,10 @@ I'm an **AI & Data Science graduate** who builds end-to-end intelligent systems 
   <i>Let's build something intelligent together.</i>
   <br><br>
   <a href="mailto:chavanlokesh096@gmail.com">📬 chavanlokesh096@gmail.com</a>
+<div align="center">
+
+**⭐ If you find any of my repositories useful, a star goes a long way — thanks!**
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 </div>
