@@ -88,8 +88,6 @@ I'm an **AI & Data Science graduate** who builds end-to-end intelligent systems 
 
 ![Lokesh's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Lokesh913&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Lokesh913&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
 
 ---
