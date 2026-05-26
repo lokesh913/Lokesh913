@@ -1,7 +1,9 @@
 <div align="center">
  <img width="2646" height="980" alt="GitHub_image" src="https://github.com/user-attachments/assets/7bfb39df-b7d3-4a56-a9f1-ba41b00847cc" />
 </div>
+
 <br>
+
 <div align="center">
 # Hi, I'm Lokesh Chavan 👋
 ### AI/ML Engineer &nbsp;|&nbsp; MSc AI @ Queen's University Belfast &nbsp;|&nbsp; Open to Roles
